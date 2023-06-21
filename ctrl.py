@@ -11,7 +11,7 @@ class Control:
         self.view.btn1.clicked.connect(self.view.activateMessage)
         self.view.btn2.clicked.connect(self.view.clearMessage)
 
-
+print("hi")
 
 
 
