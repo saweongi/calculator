@@ -4,6 +4,7 @@ from ui import View
 from ctrl import Control
 from PyQt5.QtGui import QIcon
 
+
 def main():
     calc = QApplication(sys.argv)
     app = QApplication(sys.argv)
